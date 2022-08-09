@@ -3,5 +3,6 @@ public class Task {
         System.out.println("Hello Sasha");
         System.out.println("Hello Pasha");
         System.out.println("Hello Masha");
+        System.out.println("Hello Dasha");
     }
 }
